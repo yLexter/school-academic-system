@@ -1,43 +1,43 @@
-# Sistema Acadêmico Escolar
+# School Academic System
 
-Este sistema acadêmico escolar foi desenvolvido como parte da disciplina de Laboratório e Linguagem de Programação II, ministrada pelos professores Wellington e Kláudio respectivamente. O objetivo do projeto é gerenciar informações relacionadas a estudantes, professores, turmas e salas de aula de um determinado curso.
+This academic school system was developed as part of the Laboratory and Programming Language II discipline, taught by professors Wellington and Kláudio respectively. The objective of the project is to manage information related to students, teachers, groups and classrooms of a given course.
 
-## Funcionalidades
+## Functionalities
 
-### Funcionalidades de Administração
+### Administration Features
 
-- **Ver Estudantes:** Permite visualizar a lista de estudantes cadastrados.
-- **Adicionar Estudante:** Permite adicionar um novo estudante ao sistema.
-- **Remover Estudante:** Permite remover um estudante do sistema.
-- **Ver Professores:** Permite visualizar a lista de professores cadastrados.
-- **Adicionar Professor:** Permite adicionar um novo professor ao sistema.
-- **Remover Professor:** Permite remover um professor do sistema.
-- **Ver Turmas:** Permite visualizar a lista de turmas cadastradas.
-- **Adicionar Turma:** Permite adicionar uma nova turma ao sistema.
-- **Deletar Turma:** Permite deletar uma turma do sistema.
-- **Ver Salas:** Permite visualizar a lista de salas de aula cadastradas.
-- **Adicionar Sala:** Permite adicionar uma nova sala de aula ao sistema.
-- **Ver Horários das Turmas:** Permite visualizar os horários das turmas.
+- **View Students:** Allows you to view the list of registered students.
+- **Add Student:** Allows you to add a new student to the system.
+- **Remove Student:** Allows you to remove a student from the system.
+- **View Teachers:** Allows you to view the list of registered teachers.
+- **Add Teacher:** Allows you to add a new teacher to the system.
+- **Remove Teacher:** Allows you to remove a teacher from the system.
+- **View Classes:** Allows you to view the list of registered classes.
+- **Add Class:** Allows you to add a new class to the system.
+- **Delete Class:** Allows you to delete a class from the system.
+- **View Rooms:** Allows you to view the list of registered classrooms.
+- **Add Room:** Allows you to add a new classroom to the system.
+- **View Class Schedules:** Allows you to view class schedules.
 
-### Menu Inicial
+### Home Menu
 
-- **Fazer Login:** Permite fazer login no sistema como aluno ou professor.
+- **Login:** Allows you to log in to the system as a student or teacher.
 
-### Funcionalidades do Aluno
+### Student Features
 
-- **Ver RDM:** Permite visualizar o Registro de Matrícula (RDM).
-- **Ver Grade Curricular:** Permite visualizar a grade curricular do curso.
-- **Ver Histórico:** Permite visualizar o histórico escolar.
-- **Ver Vestibular:** Permite visualizar informações sobre o vestibular.
+- **View RDM:** Allows you to view the Enrollment Record (RDM).
+- **View Curricular Schedule:** Allows you to view the course curriculum.
+- **View History:** Allows you to view your school history.
+- **View Entrance Exam:** Allows you to view information about the entrance exam.
 
-### Funcionalidades do Professor
+### Teacher Features
 
-- **Registrar Aula:** Permite registrar uma aula ministrada.
-- **Postar Notas:** Permite postar notas dos estudantes.
-- **Postar Notas Final:** Permite postar notas finais dos estudantes.
-- **Mostrar Relatório de Turma:** Permite visualizar um relatório da turma.
-- **Ver Registros de Aula:** Permite ver os registros das aulas ministradas.
+- **Register Class:** Allows you to register a class taught.
+- **Post Grades:** Allows you to post student grades.
+- **Post Final Grades:** Allows you to post students' final grades.
+- **Show Class Report:** Allows you to view a class report.
+- **View Class Records:** Allows you to view records of classes taught.
 
-## Banco de Dados
+## Database
 
-O sistema utiliza um banco de dados em memória, mas é extensível para qualquer banco de dados. Além disso, o projeto aborda todos os conceitos de Orientação a Objetos e alguns padrões de projeto, como Creator, Singleton e Adapter.
+The system uses an in-memory database, but is extensible to any database. Furthermore, the project addresses all Object Orientation concepts and some design patterns, such as Creator, Singleton and Adapter.
